@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.wordSquare{
+  border: 1px solid #000;
+  font-size: 4em;
+  text-align: center;
+  min-height: 2em;
+}
